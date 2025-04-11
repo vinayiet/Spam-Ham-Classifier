@@ -49,4 +49,3 @@ By following these steps, you can set up a virtual environment, install necessar
 
 ## Hurray Enjoy the code
 
-#### Master_iNeuron
